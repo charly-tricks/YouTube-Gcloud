@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "a0b15543-e899-4e99-8e30-b7e0f82151bc",
+"id": "8d63b4b9-9368-4d3d-8910-851f8823151f",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/C3ItkbfR"
+"path": "/vmess"
 }
 }
 }
