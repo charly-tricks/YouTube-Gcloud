@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "70c42f83-11cf-45f2-b4c3-00a119d9b5f6",
+            "id": "51cb8c25-2609-4886-a520-9c150594dfb1",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/CharlyTricks"
+          "path": "/vmess"
         }
       }
     }
